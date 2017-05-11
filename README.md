@@ -1,0 +1,2 @@
+# BAMAZON
+Bamazon MySQL storefront
